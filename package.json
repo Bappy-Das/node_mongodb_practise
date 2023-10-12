@@ -1,0 +1,23 @@
+{
+  "name": "node-mongo-crash-course",
+  "version": "1.0.0",
+  "description": "### `Day-1`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bappy-Das/node_mongodb_practise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bappy-Das/node_mongodb_practise/issues"
+  },
+  "homepage": "https://github.com/Bappy-Das/node_mongodb_practise#readme",
+  "dependencies": {
+    "node": "^20.7.0"
+  }
+}
