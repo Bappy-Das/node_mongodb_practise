@@ -63,6 +63,6 @@ const server = http.createServer((req, res) => {
 
 
 })
-const PORT = 5000;
+const PORT = 6000;
 server.listen(PORT)
 console.log(`Node Js server is running on : ${PORT}`);
